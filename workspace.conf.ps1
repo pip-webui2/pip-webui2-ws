@@ -6,6 +6,7 @@ $VersionControlRepos = @(
 	"git@github.com:pip-webui2/pip-webui2-themes.git"
 	"git@github.com:pip-webui2/pip-webui2-controls.git"
 	"git@github.com:pip-webui2/pip-webui2-buttons.git"
+	"git@github.com:pip-webui2/pip-webui2-cache.git"
 	"git@github.com:pip-webui2/pip-webui2-landing.git"
 	"git@github.com:pip-webui2/pip-webui2-locations.git"
 	"git@github.com:pip-webui2/pip-webui2-pictures.git"

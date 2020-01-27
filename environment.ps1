@@ -5,6 +5,7 @@ $global:All = @(
 	"pip-webui2-themes"
 	"pip-webui2-controls"
 	"pip-webui2-buttons"
+	"pip-webui2-cache"
 	"pip-webui2-landing"
 	"pip-webui2-locations"
 	"pip-webui2-pictures"

@@ -10,6 +10,7 @@ Components:
 - **Themes** - Color themes support
 - **Controls** - Basic controls
 - **Buttons** - Various buttons
+- **Cache** - Caching behavior
 - **Landing** - Controls for landing pages
 - **Locations** - Location controls
 - **Pictures** - Picture controls
